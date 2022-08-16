@@ -1,0 +1,95 @@
+ nav{
+    background-color: peachpuff;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 16px;
+    height: 70px;
+}
+nav a{
+    font-size: 30px;
+    font-weight: 700;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+li {
+    list-style: none;
+}
+li a{
+    font-size: 19px;
+    font-weight: 600;
+    padding: 0 16px;
+    text-decoration: none;
+}
+span{
+    color: white;  
+    background-color: blue;
+}
+#Hero{
+    background-color: rgb(252, 239, 228);
+}
+#text{
+    padding: 40px 60px;
+    align-items: center;
+}
+button{
+    background-color: blue;
+    padding: 5px 20px;
+}
+button a{
+    color: whitesmoke;
+    font-weight: bold;
+    text-decoration: none;
+}
+h1{
+    font-weight: bolder;
+}
+img{
+    object-fit: contain;
+    background-color: rgb(252, 239, 228); 
+}
+
+h1 p{
+    word-wrap: break-word;
+}
+.features{
+    padding-top: 50px;
+}
+h2{
+    text-align: center;
+}
+.features a{
+    font-size: 15px;
+    color: white;
+    padding: 5px 10px;
+    text-decoration: none;
+    text-align: center;
+
+}
+button{
+    display: block;
+    margin: 0 auto;
+}
+#image{
+background-color: rgb(252, 239, 228);
+}
+.mic{
+    font-size: 49px;
+    background-color: blue;
+    padding: 0 16px;
+    align-items: center;
+    text-align: center;
+}
+footer{
+    
+    background-color:blue;
+    padding: 20px 40px;
+}
+footer p{
+    background-color: red;
+    display: block;
+}
