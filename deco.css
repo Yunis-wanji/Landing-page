@@ -1,5 +1,5 @@
  nav{
-    background-color: peachpuff;
+    background-color: whitesmoke;
     display:flex;
     justify-content: space-between;
     align-items: center;
@@ -24,6 +24,7 @@ li a{
     font-weight: 600;
     padding: 0 16px;
     text-decoration: none;
+    
 }
 span{
     color: white;  
